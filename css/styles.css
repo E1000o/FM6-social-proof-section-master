@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 15px;
+}
+
+body {
+    font-size: 1rem;
+    font-family: 'Spartan', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    color: hsl(303, 10%, 53%);
+    font-weight: 700;
+}
+
+.main-content p {
+    color: hsl(303, 10%, 53%);
+}
+
+.ratings p {
+    color: hsl(303, 10%, 53%);
+    font-weight: 700;
+}
+
+.review {
+    background-color: hsl(300, 43%, 22%);
+    color: hsl(300, 24%, 96%);
+}
+
+.review-header span:nth-child(2) {
+    font-weight: 500;
+}
+
+.review-header span:nth-child(3) {
+    color: hsl(333, 80%, 67%);
+}
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
