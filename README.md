@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/social-proof-section-challenge-solution-html-css-grid-flexbox-4DqXT_56t
 - Live Site URL: https://fervent-galileo-8272f0.netlify.app/
 
 ## My process
